@@ -3,4 +3,4 @@
 - Interested in software engineering and web development
 - Favourite programming languages: Golang, JavaScript, TypeScript, Python
 
-On the way to write some of my blog at https://www.vuongngo.site
+If interested in my blog: https://www.vuongngo.site
